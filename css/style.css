@@ -1,0 +1,21 @@
+/* Created by: Ashley Monaghan
+* Created on: Sep 2020
+* This file contains the CSS for index.html
+*/
+
+body {
+  background-color: #4379b1
+}
+
+h1 {
+  text-align: center;
+}
+
+.myImage {
+  width: 100%;
+  height: 100%;
+}
+
+p {
+  color: whitesmoke
+}
