@@ -4,12 +4,12 @@
 */
 
 body {
-  background-color: #515f81
+  background-color: #515f81;
 }
 
 h1 {
   text-align: center;
-    color: white
+  color: white;
 }
 
 .myImage {
@@ -22,13 +22,13 @@ h1 {
 
 h4 {
   text-align: center;
-  color: white
+  color: white;
 }
 
 p {
-  color: whitesmoke
+  color: whitesmoke;
 }
 
 p2 {
-  color: whitesmoke
+  color: whitesmoke;
 }
