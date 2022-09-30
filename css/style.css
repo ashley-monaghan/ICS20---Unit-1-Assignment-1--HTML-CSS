@@ -12,7 +12,7 @@ h1 {
   color: white;
 }
 
-.myImage {
+.my-image {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -26,9 +26,5 @@ h4 {
 }
 
 p {
-  color: whitesmoke;
-}
-
-p2 {
   color: whitesmoke;
 }
