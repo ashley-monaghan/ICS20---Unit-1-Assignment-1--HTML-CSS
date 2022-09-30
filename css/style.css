@@ -3,16 +3,16 @@
 * This file contains the CSS for index.html
 */
 
-body{
+body {
   background-color: #515f81;
 }
 
-h1{
+h1 {
   text-align: center;
   color: white;
 }
 
-.myImage{
+.myImage {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -20,15 +20,15 @@ h1{
   height: 45%;
 }
 
-h4{
+h4 {
   text-align: center;
   color: white;
 }
 
-p{
+p {
   color: whitesmoke;
 }
 
-p2{
+p2 {
   color: whitesmoke;
 }
